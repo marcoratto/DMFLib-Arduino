@@ -1,2 +1,2 @@
-# ArduinoMFLib
-ArduinoMFLib (Arduino Message Fragmentation Library)
+# ArduinoDMFLib
+ArduinoMFLib (Arduino Dynamic Message Fragmentation Library)
