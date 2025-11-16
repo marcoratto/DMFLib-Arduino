@@ -1,4 +1,4 @@
-# ArduinoMFLib (Arduino Dynamic Message Fragmentation Library)
+# DMFLib (Dynamic Message Fragmentation Library for Arduino)
 
 ## Introduction
 

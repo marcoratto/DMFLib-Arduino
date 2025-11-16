@@ -25,7 +25,7 @@ SOFTWARE.
 #include <time.h>
 #include <stdio.h>
 
-#include "ArduinoDMFLib.h"
+#include "DMFLib.h"
 
 #include "debug.h"
 /**
