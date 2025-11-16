@@ -1,0 +1,22 @@
+##########################################
+# Syntax Coloring Map For ArduinoMFLib
+##########################################
+
+# === Data structures (struct / typedef) ===
+fragmenter_t        KEYWORD1
+reassembler_t       KEYWORD1
+
+# === Fragmenter functions ===
+fragmenter_init         KEYWORD2
+fragmenter_has_more     KEYWORD2
+fragmenter_next         KEYWORD2
+
+# === Reassembler functions ===
+reassembler_init        KEYWORD2
+reassembler_reset       KEYWORD2
+reassembler_add_chunk   KEYWORD2
+
+# === Constants or Macros (if any) ===
+MFLIB_OK            LITERAL1
+MFLIB_ERROR         LITERAL1
+MFLIB_VERSION       LITERAL1
