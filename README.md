@@ -30,6 +30,7 @@ Main features of the library:
 This library has been successfully tested on the following hardware:
 
   * [Arduino 2009 ATmega328P](https://docs.arduino.cc/retired/boards/arduino-duemilanove/)
+  * [Arduino UNO R3](https://docs.arduino.cc/hardware/uno-rev3/)
   * [Raspberry PI Pico](https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html)
   * [Espressif ESP8266-EX](https://www.espressif.com/en/products/devkits)
   * [Espressif ESP32-C3-13](https://www.espressif.com/en/products/devkits) 
